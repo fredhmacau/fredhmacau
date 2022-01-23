@@ -15,6 +15,6 @@
 
 ##
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fredhmacau&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fredhmacau&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
