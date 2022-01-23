@@ -15,6 +15,6 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredhmacau&layout=compact&theme=radical)](https://github.com/fredhmacau)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fredhmacau)](https://github.com/ryo-ma/github-profile-trophy)
 
 
