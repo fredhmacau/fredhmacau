@@ -17,4 +17,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fredhmacau&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+My State
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredhmacau&theme=radical" alt="fredhmacau" /></p>
