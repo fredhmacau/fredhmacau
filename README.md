@@ -1,7 +1,7 @@
 # Olá sou o Frederico Macau!
-
+Desenvolvedor Full-Stack com sólida base em sistemas e algoritmos. Domínio avançado em C/C++ e Python, com forte atuação no ecossistema JavaScript (React, Express, TailwindCSS) e no desenvolvimento de APIs de alta performance com FastAPI. Focado em escrever código limpo, eficiente e escalável para resolver problemas complexos.
 ##
-### Linguagens e Framework's que estou aprendendo agora 
+### Linguagens e Framework's
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
