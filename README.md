@@ -1,6 +1,5 @@
 # Olá sou o Frederico Macau!
 
-![Fredh Macau GitHub stats](https://github-readme-stats.vercel.app/api?username=fredhmacau&count_private=true&show_icons=true&theme=radical)
 ##
 ### Linguagens e Framework's que estou aprendendo agora 
 <div style="display: inline_block"><br>
