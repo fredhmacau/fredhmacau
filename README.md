@@ -17,6 +17,9 @@ Desenvolvedor Full-Stack com sólida base em sistemas e algoritmos. Domínio ava
 </div>
 
 ##
-
-My State
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredhmacau&theme=radical" alt="fredhmacau" /></p>
+
+### 📊 Estatísticas do GitHub
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredhmacau&layout=compact&theme=github_dark&locale=pt-br&hide_border=true" alt="langs" height="180" />
+</p>
